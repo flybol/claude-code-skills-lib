@@ -10,6 +10,7 @@
         "pr": "本次变更包含 AI 辅助生成或修改的代码，已由开发者完成检查与确认。"
     },
     "permissions": {
+        "defaultMode": "plan",
         "additionalDirectories": [
             "backend",
             "fontend"
