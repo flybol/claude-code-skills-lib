@@ -12,11 +12,5 @@
             "Read(./secrets/**)"
         ]
     },
-    "companyAnnouncements": [
-        "欢迎来到 Acme Corp！在 docs.acme.com 查看我们的代码指南",
-        "提醒：所有 PR 都需要代码审查",
-        "新安全政策已生效"
-    ],
-    "outputStyle": "./output-styles",
     "language": "chinese"
 }

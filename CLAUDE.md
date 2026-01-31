@@ -1,4 +1,4 @@
-# CLAUDE.md
+# Claude 项目说明（Claude.md）
  
 这是 [项目名称] 的 Claude Code 配置文件。
  
